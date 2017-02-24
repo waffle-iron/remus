@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/pastahito/remus.png?label=ready&title=Ready)](https://waffle.io/pastahito/remus)
 # remus
 Desktop editor for requirements management built on Electron and React.
 
